@@ -259,7 +259,6 @@ background-color: #404bbf;
 .features-item-wrap{
 border: 1px solid #8e8f99;
     border-radius: 4px;
-    padding: 24px 100px;
     background-color: #f4f4fd;
     display: flex;
     align-items: center;
@@ -332,6 +331,7 @@ border: 1px solid #8e8f99;
 }
 
 .team-item-text{
+    margin-bottom: 8px;
 }
 
 .team-subtitle, .team-item-text {
